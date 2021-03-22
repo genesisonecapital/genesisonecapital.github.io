@@ -1813,6 +1813,14 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__main {
     padding-top: 24rem;
     position: relative;
+    font-family: "slant", sans-serif;
+}
+
+.slant_text {
+    font-family: "slant", sans-serif;
+    font-size: 9rem;
+    line-height: 1.1;
+    color: #FFFFFF;
 }
 
 .home-content__buttons {

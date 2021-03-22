@@ -102,5 +102,12 @@
     font-weight: normal;
 }
 
+@font-face {
+    font-family: "slant";
+    src: url('../fonts/slant/slant.ttf')  format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
 
 /*# sourceMappingURL=fonts.css.map */
